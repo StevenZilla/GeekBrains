@@ -18,6 +18,3 @@ else:
             answer += 'BG'
             
 print(answer)
-
-
-    
